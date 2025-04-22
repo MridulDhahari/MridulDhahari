@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m @MridulDhahari
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me :  mridul.dhari141010@gmail.com
 
 <!---
