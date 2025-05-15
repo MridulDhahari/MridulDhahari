@@ -5,7 +5,7 @@
 - Languages : GoLang, C/C++, Python, JavaScript
 - Frameworks : ReactJS , Svelte, ExpressJS
 - Databases : MongoDB, PostGres, OpenSearch/ElasticSearch, Redis
-- Exerience : SDE 1 at Angel One 
+- Experience : SDE 1 at Angel One 
 
 <!---
 MridulDhahari/MridulDhahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
