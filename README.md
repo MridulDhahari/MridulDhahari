@@ -3,8 +3,8 @@
 - 👀 I’m interested in Full Stack Development and Distributed Systems 
 - 📫 How to reach me :  mridul.dhari141010@gmail.com
 - Languages : GoLang, C/C++, Python, JavaScript
-- Frameworks : ReactJS , Svelte, ExpressJS
-- Databases : MongoDB, PostGres, OpenSearch/ElasticSearch, Redis
+- Frameworks : ReactJS , Svelte, ExpressJS, Gin
+- Databases : MongoDB, PostGres, MySQL, OpenSearch/ElasticSearch, Redis
 - Experience : SDE 1 at Angel One 
 
 <!---
